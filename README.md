@@ -1,5 +1,5 @@
 # Search_txt
-novel analyser
+novel analyser，代码在master 分支
 **题**：**用Java编程开发“小说人物统计”程序，主要考核字符串处理、IO操作等。**
 
 自行下载自己最喜欢的小说1部。存储为文本文档。要求长篇小说，20万字以上。
